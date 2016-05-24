@@ -1,0 +1,5 @@
+name: Pong
+version: 1.0
+main: es.goodmem.pong.PongPlugin
+author: Inksquid
+description: Alerts player when somebody types his/her name in chat
